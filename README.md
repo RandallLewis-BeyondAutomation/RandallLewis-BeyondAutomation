@@ -1,58 +1,102 @@
-# 👋 Hi, I'm Randall Lewis
+# Randall Lewis
 
-## Infrastructure Engineer | AI & Automation Advocate
+## Senior Infrastructure Solutions Engineer · Founder, Beyond Automation
 
-I'm passionate about building practical automation solutions that help IT professionals eliminate repetitive work, improve infrastructure visibility, and solve real-world operational challenges.
+I have spent more than 15 years working where infrastructure, operations, security, and people meet.
 
-I'm the founder of **Beyond Automation**, where I'm building open-source tools for Windows infrastructure, Microsoft 365, Active Directory, VMware, and IT operations.
+I build practical technology for real IT problems—the kind that interrupt someone’s day, create uncertainty, or leave a team asking, “What do we do next?”
 
----
+That work became **Beyond Automation**.
 
-## 🚀 Current Flagship Project
-
-### AIHAT
-**AI Infrastructure Health Audit Toolkit**
-
-A PowerShell-based toolkit designed to help Windows System Administrators quickly assess the health of their systems through intelligent analysis and actionable recommendations.
-
-**Current Status:** 🚧 In Development
+[![Beyond Automation](https://img.shields.io/badge/Beyond%20Automation-Website-22b8f0)](https://beyondautomation.io)
+[![AIHAT](https://img.shields.io/badge/AIHAT-v1.2.0-27c96f)](https://beyondautomation.io/aihat)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Randall%20Lewis-0A66C2)](https://www.linkedin.com/in/lewisrandall/)
 
 ---
 
-## 🛠️ Technologies
+## What I Do
 
-- PowerShell
-- Windows Server
-- Microsoft 365
-- Active Directory
-- VMware
-- Azure
-- GitHub
-- AI Automation
-- Power Automate
+My background spans Windows infrastructure, Active Directory, Microsoft 365, Azure, VMware, networking, endpoint management, security operations, and automation.
 
----
+I focus on turning operational knowledge into repeatable systems:
 
-## 🎯 Mission
+- Infrastructure health and risk assessment
+- Windows and Microsoft platform engineering
+- PowerShell and workflow automation
+- Cloud architecture and Azure governance
+- Release engineering and secure CI/CD
+- AI-assisted IT operations
+- Clear technical reporting for both engineers and leadership
 
-> Helping IT professionals automate smarter, troubleshoot faster, and spend more time solving meaningful problems.
+I am also documenting my journey from senior infrastructure engineer to founder—building real products, learning in public, and showing the work behind the outcome.
 
 ---
 
-## 🌱 What I'm Building
+## Featured Product
 
-Under **Beyond Automation**, I'm creating a growing suite of open-source tools, including:
+### [AIHAT v1.2.0 — Infrastructure Health Audit Toolkit](https://github.com/Beyond-Automation/AIHAT-Releases)
 
-- AIHAT – AI Infrastructure Health Audit Toolkit
-- PatchIQ *(Planned)*
-- AD Guardian *(Planned)*
-- M365 Insight *(Planned)*
-- DNS Radar *(Planned)*
+**Understand the machine. Identify risk. Know what to do next.**
+
+AIHAT is a free Windows infrastructure health tool that evaluates:
+
+- System health
+- Windows Update
+- Security posture
+- Network health
+
+It installs as a native Windows application, performs a structured read-only assessment, and generates a professional local HTML report.
+
+- **Status:** Released
+- **Version:** v1.2.0
+- **Price:** Free
+- **Verified publisher:** Randall Lewis
+- **Privacy:** No account, telemetry, or audit-result upload
+- **Download:** [beyondautomation.io/aihat](https://beyondautomation.io/aihat)
 
 ---
 
-## 🤝 Let's Connect
+## What I’m Building
 
-If you're interested in AI, automation, PowerShell, or IT infrastructure, I'd love to connect and share ideas.
+| Project | Focus | Status |
+|---|---|---|
+| [**AIHAT**](https://github.com/Beyond-Automation/AIHAT-Releases) | Windows infrastructure health | **Released · Free** |
+| **PatchPilot** | Windows patch readiness and update health | **Release Candidate** |
+| **NetFixLab** | Practical network troubleshooting and diagnostics | **Launching** |
+| **AD Health & Hygiene** | Read-only Active Directory assessment | **In Development** |
+| **BA Command Center** | Agentic software-delivery orchestration | **In Development** |
 
-> **Building in public. Learning every day.**
+Product source code and internal engineering repositories remain private. Public repositories provide official releases, documentation, and verifiable product evidence.
+
+---
+
+## Engineering Principles
+
+- Build real products—not disposable scripts
+- Protect customer and employer information
+- Automate validation, testing, and security checks
+- Use least privilege and short-lived identities
+- Sign and checksum public software releases
+- Make technical findings understandable
+- Keep building until the answer works
+
+---
+
+## Current Growth
+
+I am expanding my Azure architecture expertise while pursuing **AZ-104** and **AZ-305**, using practical Beyond Automation infrastructure as hands-on engineering experience.
+
+The goal is bigger than collecting certifications. It is to combine infrastructure experience, cloud architecture, automation, secure delivery, and AI into products that help IT teams work with more clarity and confidence.
+
+---
+
+## Connect
+
+- **Beyond Automation:** https://beyondautomation.io
+- **Download AIHAT:** https://beyondautomation.io/aihat
+- **Beyond Automation GitHub:** https://github.com/Beyond-Automation
+- **LinkedIn:** https://www.linkedin.com/in/lewisrandall/
+
+> I don’t have every answer. But I know how to keep building until the answer works.
+
+**This is Beyond Automation!!**
